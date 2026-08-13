@@ -1,0 +1,762 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Thinky",
+          "description": "JavaScript ORM for RethinkDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-21T19:39:17Z",
+            "owner": "neumino",
+            "repo": "thinky",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSData RethinkDB",
+          "description": "RethinkDB adapter for the js-data ORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-18T17:14:08Z",
+            "owner": "js-data",
+            "repo": "js-data-rethinkdb",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "ORM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Express Session RethinkDB",
+          "description": "RethinkDB session store for Express 4.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-22T09:20:48Z",
+            "owner": "armenfilipetyan",
+            "repo": "express-session-rethinkdb",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Pool",
+          "description": "Connection-pool for RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T21:35:46Z",
+            "owner": "hden",
+            "repo": "rethinkdb-pool",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Extension Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sails Hook Thinky",
+          "description": "A hook to enable the Thinky ORM for RethinkDB in Sails.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-05-18T11:16:37Z",
+            "owner": "mwielbut",
+            "repo": "sails-hook-thinky",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KOA RethinkDB",
+          "description": "Koa middleware that gets you a RethinkDB client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CoffeeScript",
+            "last_commit": "2014-08-14T13:51:32Z",
+            "owner": "hden",
+            "repo": "koa-rethinkdb",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hapi RethinkDB CRUD",
+          "description": "CRUD handlers for Hapi interaction with Rethinkdb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-02T20:55:59Z",
+            "owner": "tengla",
+            "repo": "hapi-rethinkdb-crud",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Technology Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Remodel",
+          "description": "Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-13T14:39:43Z",
+            "owner": "linkyndy",
+            "repo": "remodel",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethink",
+          "description": "Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-08-01T18:19:51Z",
+            "owner": "5p3c7r3",
+            "repo": "rethink",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "ORM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Epiphy",
+          "description": "Lightweight RethinkDB ORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-08-12T20:04:35Z",
+            "owner": "v9n",
+            "repo": "epiphy",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lotus-rethinkdb",
+          "description": "RethinkDB adapter for Lotus::Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-05-13T21:51:19Z",
+            "owner": "angeloashmore",
+            "repo": "hanami-rethinkdb",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Technology Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rethinker",
+          "description": "A simplistic serialisation library for use alongside the official RethinkDb Java driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-03-21T17:45:26Z",
+            "owner": "futurechimp",
+            "repo": "rethinker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinkdb4j",
+          "description": "Asynchronous Netty-based RethinkDB driver for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-11-16T18:57:09Z",
+            "owner": "tony-brewerio",
+            "repo": "rethinkdb4j",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Drivers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": "Go language driver for RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-24T06:36:10Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-go",
+            "stars": 1648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elixir",
+          "description": "Multiplexed RethinkDB client in pure Elixir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2018-11-27T01:10:07Z",
+            "owner": "hamiltop",
+            "repo": "rethinkdb-elixir",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#",
+          "description": "A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-12T16:08:37Z",
+            "owner": "bchavez",
+            "repo": "RethinkDb.Driver",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": "A PHP client driver for the RethinkDB query language (ReQL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-09T04:41:57Z",
+            "owner": "danielmewes",
+            "repo": "php-rql",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure",
+          "description": "A RethinkDB client for Clojure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-04-24T03:12:49Z",
+            "owner": "apa512",
+            "repo": "clj-rethinkdb",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scala",
+          "description": "Scala Driver for RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-02-02T14:37:39Z",
+            "owner": "kclay",
+            "repo": "rethink-scala",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++",
+          "description": "RethinkDB driver for C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-11-08T23:30:06Z",
+            "owner": "AtnNn",
+            "repo": "librethinkdbxx",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell",
+          "description": "RethinkDB client library for Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2017-05-11T14:16:56Z",
+            "owner": "AtnNn",
+            "repo": "haskell-rethinkdb",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lisp",
+          "description": "RethinkDB driver for Common Lisp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2016-07-08T22:07:27Z",
+            "owner": "orthecreedence",
+            "repo": "cl-rethinkdb",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dart",
+          "description": "A Dart driver for RethinkDB v2.0.3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-02-21T15:50:31Z",
+            "owner": "billysometimes",
+            "repo": "rethinkdb",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perl",
+          "description": "A Pure Perl RethinkDB Driver.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Perl",
+            "last_commit": "2026-05-25T16:01:57Z",
+            "owner": "nnthnn",
+            "repo": "perl-rethinkdb",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Objective-C",
+          "description": "A RethinkDB client written in Objective-C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-05-10T21:13:52Z",
+            "owner": "dparnell",
+            "repo": "rethink-db-client",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lua",
+          "description": "Rethinkdb driver in Lua.",
+          "children": []
+        }
+      ],
+      "title": "Community Supported Drivers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RethinkDB NodeJS Chat",
+          "description": "A node.js chat application running on rethinkdb.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2020-08-29T02:44:24Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-example-nodejs-chat",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Angular Express Promise",
+          "description": "Promise based Todo example with RethinkDB, ExpressJS and AngularJS .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T10:26:30Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-example-nodejs",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Angular Express",
+          "description": "Todo example with RethinkDB, ExpressJS and AngularJS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T10:26:30Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-example-nodejs",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Angular KOA",
+          "description": "Todo example with RethinkDB, KoaJS and AngularJS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T10:26:30Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-example-nodejs",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Flask Backbone ToDo",
+          "description": "A canonical backbone todo application running on flask and RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-10-12T21:14:19Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-example-flask-backbone-todo",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB PubNub Live Blog",
+          "description": "PubNub / Express Blog Example App.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-08-28T18:01:52Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb-pubnub-liveblog",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB ccoenraets/nodecellar Fork",
+          "description": "Sample app built with Backbone.js,Bootstrap, Node.js, Express, RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2013-03-18T23:37:21Z",
+            "owner": "rethinkdb",
+            "repo": "nodecellar-rethinkdb",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "RethinkDB Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3ree",
+          "description": "An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-06T14:58:31Z",
+            "owner": "GordyD",
+            "repo": "3ree",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meguca",
+          "description": "High performance real-time imageboard in Go, TypeScript and RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-03-27T23:24:55Z",
+            "owner": "bakape",
+            "repo": "shamichan",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Chat",
+          "description": "A simple chat applications built with RethinkDB + Sockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-07T22:34:11Z",
+            "owner": "thejsj",
+            "repo": "rethinkdb-chat",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go RethinkDB ToDo",
+          "description": "Go RethinkDB Todo List Example Application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2015-12-21T17:36:48Z",
+            "owner": "dancannon",
+            "repo": "GoRethink_TodoDemo",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueJS RethinkDB",
+          "description": "Vuejs + Express + RethinkDB example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-17T13:34:49Z",
+            "owner": "weiying-chen",
+            "repo": "vue-rethinkdb-example",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor GraphQL",
+          "description": "A Meteor and RethinkDB Example Using GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-17T16:53:09Z",
+            "owner": "AdamBrodzinski",
+            "repo": "Meteor-RethinkDB-GraphQL",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boot RethinkDB",
+          "description": "Chat example with spring boot and RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-02-20T17:59:21Z",
+            "owner": "geowarin",
+            "repo": "boot-rethinkdb",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realtime Chat RethinkDB",
+          "description": "A realtime chatroom built with RethinkDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-14T18:32:46Z",
+            "owner": "shadowcodex",
+            "repo": "realtime-chat-RethinkDB",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Reactjs",
+          "description": "rethinkdb + react.js + ActionController::Live (Rails) + Server Side Events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-04-26T14:08:24Z",
+            "owner": "arkency",
+            "repo": "rethinkdb-reactjs",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Community Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chateau",
+          "description": "Another (awesome) data explorer for RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-27T09:45:19Z",
+            "owner": "neumino",
+            "repo": "chateau",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB CLI",
+          "description": "CLI and REPL for Rethinkdb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-13T12:17:37Z",
+            "owner": "tengla",
+            "repo": "rethinkdb-cli",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RethinkDB Nightly",
+          "description": "A node module that will execute a nightly backup and push it to S3.",
+          "children": []
+        }
+      ],
+      "title": "Administrative Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "Single node Dockerfile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-25T22:53:04Z",
+            "owner": "crosbymichael",
+            "repo": "Dockerfiles",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant",
+          "description": "Install RethinkDB using Vagrant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-02-15T20:24:42Z",
+            "owner": "RyanAmos",
+            "repo": "rethinkdb-vagrant",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chef",
+          "description": "Chef RethinkDB cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-05-10T17:36:10Z",
+            "owner": "AVVSDevelopment",
+            "repo": "chef-rethinkdb",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wrecker",
+          "description": "Wercker box for RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-06-27T09:16:16Z",
+            "owner": "mies",
+            "repo": "box-rethinkdb",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puppet",
+          "description": "Puppet module for RethinkDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Puppet",
+            "last_commit": "2014-09-20T23:49:22Z",
+            "owner": "tmont",
+            "repo": "puppet-rethinkdb",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Deployment"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:32:56.843Z",
+    "original_repository": "d3viant0ne/awesome-rethinkdb",
+    "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",
+    "enhanced_repository": "enhansome/enhansome-rethinkdb",
+    "enhanced_repository_description": null,
+    "title": "Awesome rethinkdb with stars"
+  }
+}
