@@ -232,7 +232,7 @@
             "last_commit": "2025-10-24T06:36:10Z",
             "owner": "rethinkdb",
             "repo": "rethinkdb-go",
-            "stars": 1648
+            "stars": 1645
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2022-09-09T04:41:57Z",
             "owner": "danielmewes",
             "repo": "php-rql",
-            "stars": 337
+            "stars": 336
           }
         },
         {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:32:56.843Z",
+    "last_updated": "2026-08-13T16:07:31.637Z",
     "original_repository": "d3viant0ne/awesome-rethinkdb",
     "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",
     "enhanced_repository": "enhansome/enhansome-rethinkdb",
