@@ -232,7 +232,7 @@
             "last_commit": "2025-10-24T06:36:10Z",
             "owner": "rethinkdb",
             "repo": "rethinkdb-go",
-            "stars": 1645
+            "stars": 1646
           }
         },
         {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:32:59.238Z",
+    "last_updated": "2026-08-18T15:43:22.802Z",
     "original_repository": "d3viant0ne/awesome-rethinkdb",
     "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",
     "enhanced_repository": "enhansome/enhansome-rethinkdb",
