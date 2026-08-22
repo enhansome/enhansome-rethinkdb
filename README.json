@@ -615,7 +615,7 @@
             "last_commit": "2023-12-17T13:34:49Z",
             "owner": "weiying-chen",
             "repo": "vue-rethinkdb-example",
-            "stars": 61
+            "stars": 60
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:45:35.449Z",
+    "last_updated": "2026-08-22T15:32:43.515Z",
     "original_repository": "d3viant0ne/awesome-rethinkdb",
     "original_repository_id": 57342750,
     "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",

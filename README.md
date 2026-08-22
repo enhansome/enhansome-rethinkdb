@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,539 | 🐛 105 | 📅 2026-08-21 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,891 | 🐛 105 | 📅 2026-08-21 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -220,7 +220,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,539 |
 * [Meguca](https://github.com/bakape/meguca) ⚠️ Archived - High performance real-time imageboard in Go, TypeScript and RethinkDB.
 * [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-07 - A simple chat applications built with RethinkDB + Sockets.
 * [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) ⚠️ Archived - Go RethinkDB Todo List Example Application.
-* [VueJS RethinkDB](https://github.com/alexcheninfo/vuejs-rethinkdb-example) ⭐ 61 | 🐛 5 | 🌐 JavaScript | 📅 2023-12-17 - Vuejs + Express + RethinkDB example.
+* [VueJS RethinkDB](https://github.com/alexcheninfo/vuejs-rethinkdb-example) ⭐ 60 | 🐛 5 | 🌐 JavaScript | 📅 2023-12-17 - Vuejs + Express + RethinkDB example.
 * [Meteor GraphQL](https://github.com/AdamBrodzinski/Meteor-RethinkDB-GraphQL) ⭐ 44 | 🐛 2 | 🌐 JavaScript | 📅 2016-01-17 - A Meteor and RethinkDB Example Using GraphQL.
 * [Boot RethinkDB](https://github.com/geowarin/boot-rethinkdb) ⭐ 40 | 🐛 2 | 🌐 Java | 📅 2018-02-20 - Chat example with spring boot and RethinkDB.
 * [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2020-09-14 - A realtime chatroom built with RethinkDB
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,539 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
