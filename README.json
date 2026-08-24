@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "RethinkDB Dash",
+              "description": "An advanced Node.js driver for RethinkDB with connection pool and Streams Support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15928042,
+                "language": "JavaScript",
+                "last_commit": "2022-05-06T22:40:39Z",
+                "owner": "neumino",
+                "repo": "rethinkdbdash",
+                "stars": 841
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Drivers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Thinky",
               "description": "JavaScript ORM for RethinkDB",
               "children": [],
@@ -125,7 +147,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Technology Integrations"
         },
@@ -170,6 +192,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "flask-rethinkdb",
+              "description": "Adds RethinkDB support to Flask.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15438853,
+                "language": "Python",
+                "last_commit": "2021-06-22T21:49:46Z",
+                "owner": "linkyndy",
+                "repo": "flask-rethinkdb",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Technology Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NoBrainer",
+              "description": "Ruby ORM for RethinkDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7284265,
+                "language": "Ruby",
+                "last_commit": "2025-04-28T08:03:24Z",
+                "owner": "NoBrainerORM",
+                "repo": "nobrainer",
+                "stars": 385
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ORM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Epiphy",
               "description": "Lightweight RethinkDB ORM.",
               "children": [],
@@ -199,7 +265,7 @@
               }
             }
           ],
-          "description": "Back to top",
+          "description": null,
           "node_type": "group",
           "title": "Technology Integrations"
         },
@@ -239,12 +305,34 @@
           "description": null,
           "node_type": "group",
           "title": "Drivers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RethinkDB Java ORM",
+              "description": "A custom POJO converter for RethinkDB Java driver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84549756,
+                "language": "Java",
+                "last_commit": "2016-09-12T16:56:31Z",
+                "owner": "PeterKnego",
+                "repo": "rethinkdb-java-orm",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ORM"
         }
       ],
       "title": "Community"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -541,7 +629,7 @@
       "title": "RethinkDB Examples"
     },
     {
-      "description": "Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -800,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:33:46.131Z",
+    "last_updated": "2026-08-24T14:40:01.732Z",
     "original_repository": "d3viant0ne/awesome-rethinkdb",
     "original_repository_id": 57342750,
     "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",
