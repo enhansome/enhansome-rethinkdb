@@ -888,9 +888,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:32:53.692Z",
-    "original_repository": "d3viant0ne/awesome-rethinkdb",
-    "original_repository_id": 57342750,
+    "last_updated": "2026-08-27T11:59:48.805Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 57342750,
+      "language": null,
+      "last_commit": "2016-05-09T21:05:19Z",
+      "owner": "joshwiens",
+      "repo": "awesome-rethinkdb",
+      "stars": 117
+    },
     "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",
     "enhanced_repository": "enhansome/enhansome-rethinkdb",
     "enhanced_repository_description": null,
