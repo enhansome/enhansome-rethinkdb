@@ -18,7 +18,8 @@
                 "owner": "neumino",
                 "repo": "rethinkdbdash",
                 "stars": 841
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "neumino",
                 "repo": "thinky",
                 "stars": 1113
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "js-data",
                 "repo": "js-data-rethinkdb",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "armenfilipetyan",
                 "repo": "express-session-rethinkdb",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "hden",
                 "repo": "rethinkdb-pool",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -114,7 +119,8 @@
                 "owner": "mwielbut",
                 "repo": "sails-hook-thinky",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -129,7 +135,8 @@
                 "owner": "hden",
                 "repo": "koa-rethinkdb",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "tengla",
                 "repo": "hapi-rethinkdb-crud",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -166,7 +174,8 @@
                 "owner": "linkyndy",
                 "repo": "remodel",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -181,7 +190,8 @@
                 "owner": "5p3c7r3",
                 "repo": "rethink",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -203,7 +213,8 @@
                 "owner": "linkyndy",
                 "repo": "flask-rethinkdb",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -225,7 +236,8 @@
                 "owner": "NoBrainerORM",
                 "repo": "nobrainer",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -247,7 +259,8 @@
                 "owner": "v9n",
                 "repo": "epiphy",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -262,7 +275,8 @@
                 "owner": "angeloashmore",
                 "repo": "hanami-rethinkdb",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -284,7 +298,8 @@
                 "owner": "futurechimp",
                 "repo": "rethinker",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             },
             {
               "node_type": "item",
@@ -299,7 +314,8 @@
                 "owner": "tony-brewerio",
                 "repo": "rethinkdb4j",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -321,7 +337,8 @@
                 "owner": "PeterKnego",
                 "repo": "rethinkdb-java-orm",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:00:14.175Z"
             }
           ],
           "description": null,
@@ -347,7 +364,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-go",
             "stars": 1646
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -362,7 +380,8 @@
             "owner": "hamiltop",
             "repo": "rethinkdb-elixir",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -377,7 +396,8 @@
             "owner": "bchavez",
             "repo": "RethinkDb.Driver",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -392,7 +412,8 @@
             "owner": "danielmewes",
             "repo": "php-rql",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -407,7 +428,8 @@
             "owner": "apa512",
             "repo": "clj-rethinkdb",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -422,7 +444,8 @@
             "owner": "kclay",
             "repo": "rethink-scala",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -437,7 +460,8 @@
             "owner": "AtnNn",
             "repo": "librethinkdbxx",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -452,7 +476,8 @@
             "owner": "AtnNn",
             "repo": "haskell-rethinkdb",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -467,7 +492,8 @@
             "owner": "orthecreedence",
             "repo": "cl-rethinkdb",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -482,7 +508,8 @@
             "owner": "billysometimes",
             "repo": "rethinkdb",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -497,7 +524,8 @@
             "owner": "nnthnn",
             "repo": "perl-rethinkdb",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -512,7 +540,8 @@
             "owner": "dparnell",
             "repo": "rethink-db-client",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         }
       ],
       "title": "Community Supported Drivers"
@@ -533,7 +562,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-example-nodejs-chat",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -548,7 +578,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-example-nodejs",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -563,7 +594,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-example-nodejs",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -578,7 +610,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-example-nodejs",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -593,7 +626,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-example-flask-backbone-todo",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -608,7 +642,8 @@
             "owner": "rethinkdb",
             "repo": "rethinkdb-pubnub-liveblog",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -623,7 +658,8 @@
             "owner": "rethinkdb",
             "repo": "nodecellar-rethinkdb",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         }
       ],
       "title": "RethinkDB Examples"
@@ -644,7 +680,8 @@
             "owner": "GordyD",
             "repo": "3ree",
             "stars": 840
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -659,7 +696,8 @@
             "owner": "bakape",
             "repo": "shamichan",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -674,7 +712,8 @@
             "owner": "thejsj",
             "repo": "rethinkdb-chat",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -689,7 +728,8 @@
             "owner": "dancannon",
             "repo": "GoRethink_TodoDemo",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -704,7 +744,8 @@
             "owner": "weiying-chen",
             "repo": "vue-rethinkdb-example",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -719,7 +760,8 @@
             "owner": "AdamBrodzinski",
             "repo": "Meteor-RethinkDB-GraphQL",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -734,7 +776,8 @@
             "owner": "geowarin",
             "repo": "boot-rethinkdb",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -749,7 +792,8 @@
             "owner": "shadowcodex",
             "repo": "realtime-chat-RethinkDB",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -764,7 +808,8 @@
             "owner": "arkency",
             "repo": "rethinkdb-reactjs",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         }
       ],
       "title": "Community Examples"
@@ -785,7 +830,8 @@
             "owner": "neumino",
             "repo": "chateau",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -800,7 +846,8 @@
             "owner": "tengla",
             "repo": "rethinkdb-cli",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         }
       ],
       "title": "Administrative Tools"
@@ -821,7 +868,8 @@
             "owner": "crosbymichael",
             "repo": "Dockerfiles",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -836,7 +884,8 @@
             "owner": "RyanAmos",
             "repo": "rethinkdb-vagrant",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -851,7 +900,8 @@
             "owner": "AVVSDevelopment",
             "repo": "chef-rethinkdb",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -866,7 +916,8 @@
             "owner": "mies",
             "repo": "box-rethinkdb",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         },
         {
           "node_type": "item",
@@ -881,14 +932,15 @@
             "owner": "tmont",
             "repo": "puppet-rethinkdb",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:00:14.175Z"
         }
       ],
       "title": "Deployment"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:22:51.074Z",
+    "last_updated": "2026-08-29T00:00:14.175Z",
     "original_repository_info": {
       "archived": false,
       "id": 57342750,
