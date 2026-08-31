@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,390 | 🐛 105 | 📅 2026-08-21 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,695 | 🐛 105 | 📅 2026-08-21 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -67,7 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,390 |
 ##### Extension Libraries
 
 * [Express Session RethinkDB](https://github.com/armenfilipetyan/express-session-rethinkdb) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2016-11-22 - RethinkDB session store for Express 4.x.
-* [RethinkDB Pool](https://github.com/hden/rethinkdb-pool) ⭐ 22 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-02 - Connection-pool for RethinkDB.
+* [RethinkDB Pool](https://github.com/hden/rethinkdb-pool) ⭐ 22 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-31 - Connection-pool for RethinkDB.
 * Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/hden)
 * Maintainer: `@armenfilipetyan`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/armenfilipetyan)
 
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,390 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
