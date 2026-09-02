@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,986 | 🐛 105 | 📅 2026-08-21 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,335 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -95,7 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,986 |
 ##### ORM
 
 * [Remodel](https://github.com/linkyndy/remodel) ⭐ 192 | 🐛 3 | 🌐 Python | 📅 2020-05-13 - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
-* [Rethink](https://github.com/caoimhghin/rethink) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2015-08-01 - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.
+* [Rethink](https://github.com/caoimhghin/rethink) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2015-08-01 - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.
 * Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 * Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
 
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,986 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

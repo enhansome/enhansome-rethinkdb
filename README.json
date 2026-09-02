@@ -246,7 +246,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2015-08-01T18:19:51Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "5p3c7r3",
                 "repo": "rethink",
                 "stars": 14,
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:26:32.250Z",
+    "last_updated": "2026-09-02T18:38:06.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
