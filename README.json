@@ -1105,7 +1105,7 @@
             "open_issues": 18,
             "owner": "neumino",
             "repo": "chateau",
-            "stars": 207,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:14.175Z"
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:34:51.659Z",
+    "last_updated": "2026-09-04T18:20:55.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",

@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,648 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,981 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -233,7 +233,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,648 |
 
 #### Administrative Tools
 
-* [Chateau](https://github.com/neumino/chateau) ⭐ 207 | 🐛 18 | 🌐 JavaScript | 📅 2017-09-27 - Another (awesome) data explorer for RethinkDB.
+* [Chateau](https://github.com/neumino/chateau) ⭐ 206 | 🐛 18 | 🌐 JavaScript | 📅 2017-09-27 - Another (awesome) data explorer for RethinkDB.
 * [RethinkDB CLI](https://github.com/athlite/rethinkdb-cli) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-13 - CLI and REPL for Rethinkdb.
 * [RethinkDB Nightly](https://github.com/robconery/rethinkdb_nightly) - A node module that will execute a nightly backup and push it to S3.
 
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,648 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
