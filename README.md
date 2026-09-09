@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,212 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,487 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -59,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,212 |
 
 ##### ORM
 
-* [Thinky](https://github.com/neumino/thinky) ⭐ 1,112 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
+* [Thinky](https://github.com/neumino/thinky) ⭐ 1,111 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
 * [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) ⭐ 32 | 🐛 9 | 🌐 JavaScript | 📅 2017-08-18 - RethinkDB adapter for the js-data ORM.
 * Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino)
 * Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,212 |
 
 #### Community Examples
 
-* [3ree](https://github.com/GordyD/3ree) ⭐ 840 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06 - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
+* [3ree](https://github.com/GordyD/3ree) ⭐ 839 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06 - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
 * [Meguca](https://github.com/bakape/meguca) ⚠️ Archived - High performance real-time imageboard in Go, TypeScript and RethinkDB.
 * [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-07 - A simple chat applications built with RethinkDB + Sockets.
 * [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) ⚠️ Archived - Go RethinkDB Todo List Example Application.
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,212 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

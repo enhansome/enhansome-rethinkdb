@@ -49,7 +49,7 @@
                 "open_issues": 107,
                 "owner": "neumino",
                 "repo": "thinky",
-                "stars": 1112,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:14.175Z"
@@ -896,7 +896,7 @@
             "open_issues": 4,
             "owner": "GordyD",
             "repo": "3ree",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "boilerplate",
               "express",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:35:26.012Z",
+    "last_updated": "2026-09-09T18:31:58.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
