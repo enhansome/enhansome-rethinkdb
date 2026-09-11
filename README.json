@@ -115,7 +115,7 @@
                 "id": 16365583,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T15:14:03Z",
+                "last_commit": "2026-09-11T15:31:31Z",
                 "open_issues": 6,
                 "owner": "hden",
                 "repo": "rethinkdb-pool",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:23:06.899Z",
+    "last_updated": "2026-09-11T18:26:11.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
