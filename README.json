@@ -115,7 +115,7 @@
                 "id": 16365583,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:31:31Z",
+                "last_commit": "2026-09-17T21:12:32Z",
                 "open_issues": 6,
                 "owner": "hden",
                 "repo": "rethinkdb-pool",
@@ -925,7 +925,7 @@
             "open_issues": 101,
             "owner": "bakape",
             "repo": "shamichan",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "go",
               "imageboard",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:59:19.807Z",
+    "last_updated": "2026-09-18T18:23:09.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
