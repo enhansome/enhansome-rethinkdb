@@ -565,8 +565,8 @@
             "id": 24759168,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2019-04-24T03:12:49Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-20T10:37:14Z",
+            "open_issues": 42,
             "owner": "apa512",
             "repo": "clj-rethinkdb",
             "stars": 203,
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:58:26.215Z",
+    "last_updated": "2026-09-20T18:11:06.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
@@ -1261,7 +1261,7 @@
       "open_issues": 2,
       "owner": "joshwiens",
       "repo": "awesome-rethinkdb",
-      "stars": 117,
+      "stars": 118,
       "topics": []
     },
     "original_repository_sha": "c98b27d16c237e46d997f5eee2c24e946ba40a38",
