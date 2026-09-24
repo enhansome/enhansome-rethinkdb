@@ -467,7 +467,7 @@
             "open_issues": 27,
             "owner": "rethinkdb",
             "repo": "rethinkdb-go",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "driver",
               "go",
@@ -548,7 +548,7 @@
             "open_issues": 35,
             "owner": "danielmewes",
             "repo": "php-rql",
-            "stars": 335,
+            "stars": 336,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:14.175Z"
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:01:24.067Z",
+    "last_updated": "2026-09-24T19:05:28.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
