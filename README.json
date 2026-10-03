@@ -21,7 +21,7 @@
                 "open_issues": 53,
                 "owner": "neumino",
                 "repo": "rethinkdbdash",
-                "stars": 839,
+                "stars": 838,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:14.175Z"
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:55:14.646Z",
+    "last_updated": "2026-10-03T05:06:12.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
