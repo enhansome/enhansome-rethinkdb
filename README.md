@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,038 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,291 | 🐛 106 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -52,15 +52,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,038 |
 
 ##### Drivers
 
-* [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) ⭐ 838 | 🐛 53 | 🌐 JavaScript | 📅 2022-05-06 - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
+* [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) ⭐ 837 | 🐛 53 | 🌐 JavaScript | 📅 2022-05-06 - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
 * [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
 * Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 * Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino)
 
 ##### ORM
 
-* [Thinky](https://github.com/neumino/thinky) ⭐ 1,110 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
-* [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) ⭐ 32 | 🐛 9 | 🌐 JavaScript | 📅 2017-08-18 - RethinkDB adapter for the js-data ORM.
+* [Thinky](https://github.com/neumino/thinky) ⭐ 1,109 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
+* [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) ⭐ 31 | 🐛 9 | 🌐 JavaScript | 📅 2017-08-18 - RethinkDB adapter for the js-data ORM.
 * Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino)
 * Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
 
@@ -94,7 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,038 |
 
 ##### ORM
 
-* [Remodel](https://github.com/linkyndy/remodel) ⭐ 192 | 🐛 3 | 🌐 Python | 📅 2020-05-13 - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
+* [Remodel](https://github.com/linkyndy/remodel) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2020-05-13 - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
 * [Rethink](https://github.com/caoimhghin/rethink) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2015-08-01 - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.
 * Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 * Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
@@ -118,7 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,038 |
 
 ##### ORM
 
-* [NoBrainer](https://github.com/nviennot/nobrainer) ⭐ 385 | 🐛 18 | 🌐 Ruby | 📅 2025-04-28 - Ruby ORM for RethinkDB.
+* [NoBrainer](https://github.com/nviennot/nobrainer) ⭐ 384 | 🐛 18 | 🌐 Ruby | 📅 2025-04-28 - Ruby ORM for RethinkDB.
 * Maintainer: `Nicolas Viennot`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/nviennot) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/nviennot)
 
 ##### Technology Integrations
@@ -163,7 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,038 |
 
 * [Go](https://github.com/dancannon/gorethink) ⭐ 1,647 | 🐛 27 | 🌐 Go | 📅 2025-10-24 - Go language driver for RethinkDB.
 * [Elixir](https://github.com/hamiltop/rethinkdb-elixir) ⭐ 491 | 🐛 20 | 🌐 Elixir | 📅 2018-11-27 - Multiplexed RethinkDB client in pure Elixir.
-* [C#](https://github.com/bchavez/RethinkDb.Driver) ⭐ 381 | 🐛 24 | 🌐 C# | 📅 2020-12-12 - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+* [C#](https://github.com/bchavez/RethinkDb.Driver) ⭐ 380 | 🐛 24 | 🌐 C# | 📅 2020-12-12 - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 * [PHP](https://github.com/danielmewes/php-rql) ⭐ 336 | 🐛 35 | 🌐 PHP | 📅 2022-09-09 - A PHP client driver for the RethinkDB query language (ReQL).
 * [Clojure](https://github.com/apa512/clj-rethinkdb) ⭐ 203 | 🐛 41 | 🌐 Clojure | 📅 2026-09-21 - A RethinkDB client for Clojure.
 * [Scala](https://github.com/kclay/rethink-scala) ⭐ 101 | 🐛 13 | 🌐 Scala | 📅 2016-02-02 - Scala Driver for RethinkDB.
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,038 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

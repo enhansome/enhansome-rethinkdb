@@ -21,7 +21,7 @@
                 "open_issues": 53,
                 "owner": "neumino",
                 "repo": "rethinkdbdash",
-                "stars": 838,
+                "stars": 837,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:14.175Z"
@@ -49,7 +49,7 @@
                 "open_issues": 107,
                 "owner": "neumino",
                 "repo": "thinky",
-                "stars": 1110,
+                "stars": 1109,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:14.175Z"
@@ -70,7 +70,7 @@
                 "open_issues": 9,
                 "owner": "js-data",
                 "repo": "js-data-rethinkdb",
-                "stars": 32,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:14.175Z"
@@ -150,7 +150,7 @@
                 "open_issues": 1,
                 "owner": "mwielbut",
                 "repo": "sails-hook-thinky",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:14.175Z"
@@ -224,7 +224,7 @@
                 "open_issues": 3,
                 "owner": "linkyndy",
                 "repo": "remodel",
-                "stars": 192,
+                "stars": 191,
                 "topics": [
                   "object-document-mapper",
                   "python",
@@ -305,7 +305,7 @@
                 "open_issues": 18,
                 "owner": "NoBrainerORM",
                 "repo": "nobrainer",
-                "stars": 385,
+                "stars": 384,
                 "topics": [
                   "orm",
                   "rails",
@@ -516,7 +516,7 @@
             "open_issues": 24,
             "owner": "bchavez",
             "repo": "RethinkDb.Driver",
-            "stars": 381,
+            "stars": 380,
             "topics": [
               "c-sharp",
               "csharp",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:34:46.482Z",
+    "last_updated": "2026-10-08T20:40:18.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
