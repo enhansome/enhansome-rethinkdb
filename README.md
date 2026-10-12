@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,622 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,144 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -161,7 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,622 |
 
 #### Community Supported Drivers
 
-* [Go](https://github.com/dancannon/gorethink) ⭐ 1,647 | 🐛 27 | 🌐 Go | 📅 2025-10-24 - Go language driver for RethinkDB.
+* [Go](https://github.com/dancannon/gorethink) ⭐ 1,646 | 🐛 27 | 🌐 Go | 📅 2025-10-24 - Go language driver for RethinkDB.
 * [Elixir](https://github.com/hamiltop/rethinkdb-elixir) ⭐ 491 | 🐛 20 | 🌐 Elixir | 📅 2018-11-27 - Multiplexed RethinkDB client in pure Elixir.
 * [C#](https://github.com/bchavez/RethinkDb.Driver) ⭐ 380 | 🐛 24 | 🌐 C# | 📅 2020-12-12 - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 * [PHP](https://github.com/danielmewes/php-rql) ⭐ 336 | 🐛 35 | 🌐 PHP | 📅 2022-09-09 - A PHP client driver for the RethinkDB query language (ReQL).
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,622 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

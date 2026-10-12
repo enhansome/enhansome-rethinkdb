@@ -467,7 +467,7 @@
             "open_issues": 27,
             "owner": "rethinkdb",
             "repo": "rethinkdb-go",
-            "stars": 1647,
+            "stars": 1646,
             "topics": [
               "driver",
               "go",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:30:54.934Z",
+    "last_updated": "2026-10-12T22:28:45.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
