@@ -896,7 +896,7 @@
             "open_issues": 4,
             "owner": "GordyD",
             "repo": "3ree",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "boilerplate",
               "express",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:51:04.312Z",
+    "last_updated": "2026-10-18T18:03:22.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",

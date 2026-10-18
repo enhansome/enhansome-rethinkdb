@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,370 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,875 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,370 |
 
 #### Community Examples
 
-* [3ree](https://github.com/GordyD/3ree) ⭐ 840 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06 - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
+* [3ree](https://github.com/GordyD/3ree) ⭐ 839 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06 - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
 * [Meguca](https://github.com/bakape/meguca) ⚠️ Archived - High performance real-time imageboard in Go, TypeScript and RethinkDB.
 * [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-07 - A simple chat applications built with RethinkDB + Sockets.
 * [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) ⚠️ Archived - Go RethinkDB Todo List Example Application.
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,370 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
