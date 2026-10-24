@@ -611,7 +611,7 @@
             "open_issues": 16,
             "owner": "AtnNn",
             "repo": "librethinkdbxx",
-            "stars": 100,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:14.175Z"
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:08:26.363Z",
+    "last_updated": "2026-10-24T18:04:56.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",

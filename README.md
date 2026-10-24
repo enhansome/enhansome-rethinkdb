@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,559 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,044 | 🐛 105 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -167,7 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,559 |
 * [PHP](https://github.com/danielmewes/php-rql) ⭐ 336 | 🐛 35 | 🌐 PHP | 📅 2022-09-09 - A PHP client driver for the RethinkDB query language (ReQL).
 * [Clojure](https://github.com/apa512/clj-rethinkdb) ⭐ 203 | 🐛 41 | 🌐 Clojure | 📅 2026-09-21 - A RethinkDB client for Clojure.
 * [Scala](https://github.com/kclay/rethink-scala) ⭐ 101 | 🐛 13 | 🌐 Scala | 📅 2016-02-02 - Scala Driver for RethinkDB.
-* [C++](https://github.com/AtnNn/librethinkdbxx) ⭐ 100 | 🐛 16 | 🌐 C++ | 📅 2017-11-08 - RethinkDB driver for C++.
+* [C++](https://github.com/AtnNn/librethinkdbxx) ⭐ 99 | 🐛 16 | 🌐 C++ | 📅 2017-11-08 - RethinkDB driver for C++.
 * [Haskell](https://github.com/AtnNn/haskell-rethinkdb) ⭐ 93 | 🐛 6 | 🌐 Haskell | 📅 2017-05-11 - RethinkDB client library for Haskell.
 * [Lisp](https://github.com/orthecreedence/cl-rethinkdb) ⭐ 48 | 🐛 7 | 🌐 Common Lisp | 📅 2016-07-08 - RethinkDB driver for Common Lisp.
 * [Dart](https://github.com/billysometimes/rethinkdb) ⭐ 38 | 🐛 4 | 🌐 Dart | 📅 2024-02-21 - A Dart driver for RethinkDB v2.0.3.
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,559 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
