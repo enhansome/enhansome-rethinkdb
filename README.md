@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,307 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,901 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,307 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
