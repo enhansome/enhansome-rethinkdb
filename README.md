@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,416 | 🐛 104 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,994 | 🐛 104 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -239,7 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,416 |
 
 #### Deployment
 
-* [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) ⭐ 300 | 🐛 0 | 🌐 Python | 📅 2017-04-25 - Single node Dockerfile.
+* [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) ⭐ 301 | 🐛 0 | 🌐 Python | 📅 2017-04-25 - Single node Dockerfile.
 * [Vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) ⭐ 46 | 🐛 2 | 🌐 Shell | 📅 2016-02-15 - Install RethinkDB using Vagrant.
 * [Chef](https://github.com/AVVSDevelopment/chef-rethinkdb) ⭐ 15 | 🐛 0 | 🌐 Ruby | 📅 2014-05-10 - Chef RethinkDB cookbook.
 * [Wrecker](https://github.com/mies/box-rethinkdb) ⭐ 10 | 🐛 1 | 🌐 Shell | 📅 2015-06-27 - Wercker box for RethinkDB.
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,416 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

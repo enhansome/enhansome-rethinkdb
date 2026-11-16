@@ -1155,7 +1155,7 @@
             "open_issues": 0,
             "owner": "crosbymichael",
             "repo": "Dockerfiles",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:14.175Z"
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:20:57.560Z",
+    "last_updated": "2026-11-16T23:43:22.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
