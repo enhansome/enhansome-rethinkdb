@@ -925,7 +925,7 @@
             "open_issues": 101,
             "owner": "bakape",
             "repo": "shamichan",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "go",
               "imageboard",
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:43:22.057Z",
+    "last_updated": "2026-11-17T22:51:20.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
