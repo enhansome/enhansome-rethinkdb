@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,001 | 🐛 104 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,508 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -59,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,001 |
 
 ##### ORM
 
-* [Thinky](https://github.com/neumino/thinky) ⭐ 1,110 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
+* [Thinky](https://github.com/neumino/thinky) ⭐ 1,109 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
 * [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) ⭐ 31 | 🐛 9 | 🌐 JavaScript | 📅 2017-08-18 - RethinkDB adapter for the js-data ORM.
 * Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino)
 * Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
@@ -161,10 +161,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,001 |
 
 #### Community Supported Drivers
 
-* [Go](https://github.com/dancannon/gorethink) ⭐ 1,647 | 🐛 28 | 🌐 Go | 📅 2025-10-24 - Go language driver for RethinkDB.
+* [Go](https://github.com/dancannon/gorethink) ⭐ 1,646 | 🐛 28 | 🌐 Go | 📅 2025-10-24 - Go language driver for RethinkDB.
 * [Elixir](https://github.com/hamiltop/rethinkdb-elixir) ⭐ 491 | 🐛 20 | 🌐 Elixir | 📅 2018-11-27 - Multiplexed RethinkDB client in pure Elixir.
-* [C#](https://github.com/bchavez/RethinkDb.Driver) ⭐ 380 | 🐛 24 | 🌐 C# | 📅 2020-12-12 - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
-* [PHP](https://github.com/danielmewes/php-rql) ⭐ 337 | 🐛 35 | 🌐 PHP | 📅 2022-09-09 - A PHP client driver for the RethinkDB query language (ReQL).
+* [C#](https://github.com/bchavez/RethinkDb.Driver) ⭐ 378 | 🐛 24 | 🌐 C# | 📅 2020-12-12 - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+* [PHP](https://github.com/danielmewes/php-rql) ⭐ 336 | 🐛 35 | 🌐 PHP | 📅 2022-09-09 - A PHP client driver for the RethinkDB query language (ReQL).
 * [Clojure](https://github.com/apa512/clj-rethinkdb) ⭐ 203 | 🐛 41 | 🌐 Clojure | 📅 2026-09-21 - A RethinkDB client for Clojure.
 * [Scala](https://github.com/kclay/rethink-scala) ⭐ 101 | 🐛 13 | 🌐 Scala | 📅 2016-02-02 - Scala Driver for RethinkDB.
 * [C++](https://github.com/AtnNn/librethinkdbxx) ⭐ 99 | 🐛 16 | 🌐 C++ | 📅 2017-11-08 - RethinkDB driver for C++.
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,001 |
 
 #### Community Examples
 
-* [3ree](https://github.com/GordyD/3ree) ⭐ 840 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06 - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
+* [3ree](https://github.com/GordyD/3ree) ⭐ 839 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-06 - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express.
 * [Meguca](https://github.com/bakape/meguca) ⚠️ Archived - High performance real-time imageboard in Go, TypeScript and RethinkDB.
 * [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-07 - A simple chat applications built with RethinkDB + Sockets.
 * [Go RethinkDB ToDo](https://github.com/dancannon/GoRethink_TodoDemo) ⚠️ Archived - Go RethinkDB Todo List Example Application.
@@ -239,7 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,001 |
 
 #### Deployment
 
-* [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) ⭐ 301 | 🐛 0 | 🌐 Python | 📅 2017-04-25 - Single node Dockerfile.
+* [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) ⭐ 300 | 🐛 0 | 🌐 Python | 📅 2017-04-25 - Single node Dockerfile.
 * [Vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) ⭐ 46 | 🐛 2 | 🌐 Shell | 📅 2016-02-15 - Install RethinkDB using Vagrant.
 * [Chef](https://github.com/AVVSDevelopment/chef-rethinkdb) ⭐ 15 | 🐛 0 | 🌐 Ruby | 📅 2014-05-10 - Chef RethinkDB cookbook.
 * [Wrecker](https://github.com/mies/box-rethinkdb) ⭐ 10 | 🐛 1 | 🌐 Shell | 📅 2015-06-27 - Wercker box for RethinkDB.
@@ -252,4 +252,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,001 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
