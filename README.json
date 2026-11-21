@@ -569,7 +569,7 @@
             "open_issues": 41,
             "owner": "apa512",
             "repo": "clj-rethinkdb",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:14.175Z"
@@ -1249,7 +1249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:13:24.789Z",
+    "last_updated": "2026-11-21T20:53:01.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome RethinkDB resources, libraries, tools and applications",
