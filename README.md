@@ -8,7 +8,7 @@
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,708 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,325 | 🐛 103 | 📅 2026-09-02 list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
 
@@ -59,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,708 |
 
 ##### ORM
 
-* [Thinky](https://github.com/neumino/thinky) ⭐ 1,109 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
+* [Thinky](https://github.com/neumino/thinky) ⭐ 1,108 | 🐛 107 | 🌐 JavaScript | 📅 2021-11-21 - JavaScript ORM for RethinkDB
 * [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) ⭐ 31 | 🐛 9 | 🌐 JavaScript | 📅 2017-08-18 - RethinkDB adapter for the js-data ORM.
 * Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino)
 * Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
